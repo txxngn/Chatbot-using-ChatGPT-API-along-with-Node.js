@@ -6,3 +6,7 @@ npm install express openai
 
 NOTE: lab environment is ephemeral; it only exists for a short duration and will be destroyed afterward. 
 Therefore, it is essential to download the project directory so that it can be reopened in a new lab environment whenever needed.
+
+
+3. run :
+node server.js

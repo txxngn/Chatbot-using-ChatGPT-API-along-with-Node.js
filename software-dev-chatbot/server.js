@@ -3,7 +3,7 @@
 
 //This code sets up a basic Express.js server
 //that serves static files from a public directory.
-//It includes a route for the root path ('/') to serve an HTML file.
+//It includes a route for the root path ('/') to serve an HTML file...
 
 process.env["NODE_TLS_REJECT_UNAUTHORIZED"]=0;
 const express = require('express');
